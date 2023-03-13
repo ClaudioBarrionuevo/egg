@@ -1,1 +1,4 @@
 estoy tratando de entender git
+
+
+vamos mejor que antes con un dolor de cabeza
